@@ -1,0 +1,252 @@
+[
+    {
+        "users": "1",
+        "codekata":  "50",
+        "attendance": 655.00,
+        "topics": "Concrete",
+        "tasks": "mint green",
+        "company_drives" :  "    "     ,
+        "mentors" :"Abishek",
+        "date": "15 oct 2020"
+    },
+    {
+        "users": "2",
+        "codekata": "60",
+        "attendance": 911.0,
+        "topics": "Cotton",
+        "tasks": "indigo",
+        "company_drives" :    "    "  ,
+        "mentors" : " Abishek   ",
+        "date": "15 september 2020"
+    },
+    {
+        "users": "3",
+        "codekata": "70",
+        "attendance": 690.00,
+        "topics": "Rubber",
+        "tasks": "gold",
+        "company_drives" :    "    "  ,
+        "mentors" : "  Abishek  ",
+        "date": "18 oct 2020"
+    },
+    {
+        "users": "4",
+        "codekata": "100",
+        "attendance": 492.00,
+        "topics": "Soft",
+        "tasks": "plum",
+        "company_drives" :  "    "     ,
+        "mentors" : "Abishek    ",
+        "date": "15 jan 2021"
+    },
+    {
+        "users": "5",
+        "codekata": "90",
+        "attendance": 33.00,
+        "topics": "Fresh",
+        "tasks": "black",
+        "company_drives" :     "    "    ,
+        "mentors" : "  Abishek  ",
+        "date": "25 oct 2020"
+    },
+    {
+        "users": "6",
+        "codekata": "86",
+        "attendance": 474.00,
+        "topics": "Plastic",
+        "tasks": "orange",
+        "company_drives" :   "    "     ,
+        "mentors" : "  Abishek  ",
+        "date": "10 oct 2020"
+    },
+    {
+        "users": "7",
+        "codekata": "89",
+        "attendance": 500.00,
+        "topics": "Rubber",
+        "tasks": "pink",
+        "company_drives" :   "    "   ,
+        "mentors" : "  Abishek  ",
+        "date": "01 oct 2020"
+    },
+    {
+        "users": "8",
+        "codekata": "77",
+        "attendance": 78.00,
+        "topics": "Rubber",
+        "tasks": "violet",
+        "company_drives" :   "    "    ,
+        "mentors" : " Abishek   ",
+        "date": "11 oct 2020"
+    },
+    {
+        "users": "9",
+        "codekata": "82",
+        "attendance": 28.00,
+        "topics": "Soft",
+        "tasks": "azure",
+        "company_drives" :  "    "      ,
+        "mentors" : "  Abishek  ",
+        "date": "31 oct 2020"
+    },
+    {
+        "users": "10",
+        "codekata": "83",
+        "attendance": 84.00,
+        "topics": "Frozen",
+        "tasks": "indigo",
+        "company_drives" : "    "       ,
+        "mentors" : " Abishek   ",
+        "date": "15 sep 2020"
+    },
+    {
+        "users": "11",
+        "codekata": "75",
+        "attendance":26.00,
+        "topics": "Soft",
+        "tasks": "black",
+        "company_drives" :   "    "      ,
+        "mentors" : "  sangetha  ",
+        "date": "15 july 2020"
+    },
+    {
+        "users": "12",
+        "codekata": "68",
+        "attendance": 89.00,
+        "topics": "Wooden",
+        "tasks": "pink",
+        "company_drives" :   "    "      ,
+        "mentors" : "Abishek    ",
+        "date": "15 june 2020"
+    },
+    {
+        "users": "13",
+        "codekata": "67",
+        "attendance": 37.00,
+        "topics": "Concrete",
+        "tasks": "sky blue",
+        "company_drives" :   "    "      ,
+        "mentors" : "  sangetha  ",
+        "date": "15 oct 2020"
+    },
+    {
+        "users": "14",
+        "codekata": "74",
+        "attendance": 54.00,
+        "topics": "Metal",
+        "tasks": "white",
+        "company_drives" :   "    "                ,
+        "mentors" : " Abishek   ",
+        "date": "16 oct 2020"
+    },
+    {
+        "users": "15",
+        "codekata": "97",
+        "attendance": 43.00,
+        "topics": "Rubber",
+        "tasks": "mint green",
+        "company_drives" :       "    "           ,
+        "mentors" : "  sangetha  ",
+        "date": "15 oct 2020"
+    },
+    {
+        "users": "16",
+        "codekata": "66",
+        "attendance": 47.00,
+        "topics": "Cotton",
+        "tasks": "teal",
+        "company_drives" :    "    "            ,
+        "mentors" :"  sangetha  " ,
+        "date": "18 oct 2020"
+    },
+    {
+        "users": "17",
+        "codekata": "59",
+        "attendance":36.00,
+        "topics": "Fresh",
+        "tasks": "indigo",
+        "company_drives" :   "    "                ,
+        "mentors" :"  Abishek  " ,
+        "date": "20 oct 2020"
+    },
+    {
+        "users": "18",
+        "codekata": "Licensed Plastic Bacon",
+        "attendance":88.00,
+        "topics": "Steel",
+        "tasks": "yellow",
+        "company_drives" :  "    "             ,
+        "mentors" :"  sangetha  " ,
+        "date": "27 oct 2020"
+    },
+    {
+        "users": "19",
+        "codekata": "Intelligent Cotton Chips",
+        "attendance": 46.00,
+        "topics": "Soft",
+        "tasks": "azure",
+        "company_drives" :   "    "                ,
+        "mentors" :" Abishek   " ,
+        "date": "25 oct 2020"
+    },
+    {
+        "users": "20",
+        "codekata": "Handcrafted Wooden Bacon",
+        "attendance": 36.00,
+        "topics": "Concrete",
+        "tasks": "lime",
+        "company_drives" :    "    "             ,
+        "mentors" :"    " ,
+        "date": "15 oct 2020"
+    },
+    {
+        "users": "21",
+        "codekata": "Unbranded Granite Chicken",
+        "attendance": 90.00,
+        "topics": "Metal",
+        "tasks": "gold",
+        "company_drives" :  "    "               ,
+        "mentors" :"  sangetha  " ,
+        "date": "15 oct 2020"
+    },
+    {
+        "users": "22",
+        "codekata": "Ergonomic Soft Hat",
+        "attendance": 99.00,
+        "topics": "Rubber",
+        "tasks": "black",
+        "company_drives" :  "    "                ,
+        "mentors" :"    " ,
+        "date": "15 oct 2020"
+    },
+    {
+        "users": "23",
+        "codekata": "Intelligent Steel Pizza",
+        "attendance": 95.00,
+        "topics": "Cotton",
+        "tasks": "azure",
+        "company_drives" :   "    "               ,
+        "mentors" :"  Abishek  " ,
+        "date": "15 oct 2020"
+    },
+    {
+        "users": "24",
+        "codekata": "Tasty Rubber Cheese",
+        "attendance":47.00,
+        "topics": "Frozen",
+        "tasks": "orchid",
+        "company_drives" :      "    "              ,
+        "mentors" :"  sangetha  " ,
+        "date": "15 oct 2020"
+    },
+    {
+        "users": "25",
+        "codekata": "Licensed Steel Car",
+        "attendance":20.00,
+        "topics": "Cotton",
+        "tasks": "indigo",
+        "company_drives" :     "    "                  ,
+        "mentors" :"  Abishek  " ,
+        "date": "15 oct 2020"
+    }
+]
